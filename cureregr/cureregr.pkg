@@ -1,5 +1,41 @@
-d 'DEA': Data envelopment analysis
+d 'cureregr': cure model regression (split-population model) or, parametric-cure model (PCM) Use cureregr With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _cureregr8.ado
+f _cureregr8_gen.ado
+f cureregr.ado
+f cureregr.sthlp
+f cureregr8.ado
+f cureregr8.hlp
+f cureregr_gen_p.ado
+f cureregr_p.ado
+f lcureregr_lf.mlib
+f pcm000101_lf.ado
+f pcm000102_lf.ado
+f pcm000103_lf.ado
+f pcm000201_lf.ado
+f pcm000202_lf.ado
+f pcm000203_lf.ado
+f pcm000301_lf.ado
+f pcm000302_lf.ado
+f pcm000303_lf.ado
+f pcm000401_lf.ado
+f pcm000402_lf.ado
+f pcm000403_lf.ado
+f pcm000501_lf.ado
+f pcm000502_lf.ado
+f pcm000503_lf.ado
+f pcm010101_lf.ado
+f pcm010102_lf.ado
+f pcm010103_lf.ado
+f pcm010201_lf.ado
+f pcm010202_lf.ado
+f pcm010203_lf.ado
+f pcm010301_lf.ado
+f pcm010302_lf.ado
+f pcm010303_lf.ado
+f pcm010401_lf.ado
+f pcm010402_lf.ado
+f pcm010403_lf.ado
+f pcm010501_lf.ado
+f pcm010502_lf.ado
+f pcm010503_lf.ado
